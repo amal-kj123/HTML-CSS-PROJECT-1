@@ -24,8 +24,7 @@ This is a responsive **HTML & CSS portfolio website** created to showcase my edu
 - Responsive design for desktop and mobile  
 - Modern gradient styling in navigation  
 
-## 📸 Preview
-![Portfolio Preview](profile.jpg)
+
 
 ## 🚀 How to Run
 1. Clone the repository:
